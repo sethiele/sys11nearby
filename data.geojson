@@ -18,6 +18,24 @@
           52.508008383200306
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chợ Dông",
+        "Address": "Lenbachstraße 2, 10245 Berlin",
+        "Website": "",
+        "Description": "Asian Restaurant",
+        "Type": "Restaurant.Asian",
+        "Rating": "8/10 (1Vote)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.468194901943207,
+          52.50689988274455
+        ]
+      }
     }
   ]
 }
