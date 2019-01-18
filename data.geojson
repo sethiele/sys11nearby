@@ -5,9 +5,10 @@
       "type": "Feature",
       "properties": {
         "Name": "SysEleven GmbH",
-        "Website": "Rating",
-        "Description": "Restaurant",
-        "Type": "Restaurant"
+        "Website": "https://www.syseleven.de",
+        "Description": "SysEleven Office",
+        "Type": "Office",
+        "Rating": "10/10 (1 Vote)"
       },
       "geometry": {
         "type": "Point",
