@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff1a06",
+        "marker-size": "medium",
+        "marker-symbol": "building",
         "Name": "SysEleven GmbH",
         "Address": "Boxhagener Straße 80, 10247 Berlin",
         "Website": "https://www.syseleven.de",
@@ -22,6 +25,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#234bfe",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
         "Name": "Chợ Dông",
         "Address": "Lenbachstraße 2, 10245 Berlin",
         "Website": "",
