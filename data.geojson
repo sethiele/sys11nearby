@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SysEleven GmbH",
+        "Website": "Rating",
+        "Description": "Restaurant",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.467392921447754,
+          52.508008383200306
+        ]
+      }
+    }
+  ]
+}
