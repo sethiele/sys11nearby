@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "SysEleven GmbH",
+        "Address": "Boxhagener Straße 80, 10247 Berlin",
         "Website": "https://www.syseleven.de",
         "Description": "SysEleven Office",
         "Type": "Office",
